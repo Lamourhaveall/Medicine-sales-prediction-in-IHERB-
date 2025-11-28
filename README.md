@@ -45,6 +45,7 @@ pandas, numpy
 matplotlib, seaborn
 
 scikit-learn
+Selenium (used for web scraping)
 
 🤖 Machine Learning Methods
 
@@ -71,3 +72,8 @@ mse: 0.00018374870545801255
 r2: 0.9298278924596637
 
 This indicates strong predictive performance and a good fit to the data.
+
+👨‍💻 Author
+
+Makhabbat Khaval
+Suleyman Demirel University
