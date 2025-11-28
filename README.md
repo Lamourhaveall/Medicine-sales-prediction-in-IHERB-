@@ -1,7 +1,6 @@
 📊 Medicine Sales Prediction in iHerb
-👨‍💻 Author
 
-Makhabbat Khaval
+👨‍💻 Author: Makhabbat Khaval
 
 
 Predicting medicine product sales using machine learning
